@@ -5,6 +5,9 @@
 - [ ] Kamera
 - [ ] Notizbuch
 - [ ] Kontakt/Visitenkarte vom Gebäudeeigentümer
+- [ ] Fernglas
+- [ ] Taschenlampe
+- [ ] Handschuhe
 
 ## Aufgaben
 
