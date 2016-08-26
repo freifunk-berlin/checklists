@@ -8,6 +8,7 @@
 - [ ] Fernglas
 - [ ] Taschenlampe
 - [ ] Handschuhe
+- [ ] Maßband
 
 ## Aufgaben
 
