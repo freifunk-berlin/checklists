@@ -9,6 +9,8 @@
 - [ ] Taschenlampe
 - [ ] Handschuhe
 - [ ] Maßband
+- [ ] ggf. Helm
+- [ ] ggf. Hörschutz/Ohrstöpsel (z.B. auf Kirchtürmen)
 
 ## Aufgaben
 
