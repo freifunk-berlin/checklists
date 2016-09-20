@@ -9,8 +9,12 @@
 - [ ] Taschenlampe
 - [ ] Handschuhe
 - [ ] Maßband
+
+## Selbstschutz
+
 - [ ] ggf. Helm
 - [ ] ggf. Hörschutz/Ohrstöpsel (z.B. auf Kirchtürmen)
+- [ ] Handschuhe, Atemschutz, Einweganzug (z.B. gegen Taubendreck)
 
 ## Aufgaben
 
